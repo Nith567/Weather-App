@@ -1,0 +1,26 @@
+<li>cloud_pct    <span id="cloud_pct       ">  </li>
+<li>feels_like   <span id="Feels_like">  </li>
+<li>humidity     <span id="Humidity     ">   </li>
+<li>max_temp     <span id="Max_temp                   ">   </li>                  
+<li>min_temp     <span id="Min_temp                   ">    </li>                  
+<li>sunrise      <span id="Sunrise                   ">     </li>                
+<li>sunset       <span id="Sunset                   ">     </li>              
+<li>temp         <span id="Temp                 ">     </li>                
+<li>wind_degrees  <span id="Wind_degrees              ">     </li>                          
+<li>wind_speed   <span id="Wind_spee">     </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
